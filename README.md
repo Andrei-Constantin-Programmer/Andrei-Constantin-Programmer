@@ -33,7 +33,7 @@
   <a href="https://codeigniter.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Code Igniter" alt="Code Igniter" width="75" height="75"></a>
 </div>
   
-## Favourite IDEs and Engines
+## Favourite IDEs, Editors and Engines
 <div id="ides" align="center">
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/microsoft-visual-studio.png?raw=true" title="Visual Studio" alt="Visual Studio" width="75" height="75"/></a> &nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="75" height="75"/></a> &nbsp;
