@@ -39,7 +39,8 @@
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="75" height="75"/></a> &nbsp;
   <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ" width="75" height="75"/></a> &nbsp;
   <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="75" height="75"/></a> &nbsp;
-  <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="75" height="75"/></a> &nbsp;
+  <a href="https://unity.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/unity.png?raw=true" title="Unity" alt="Unity" width="75" height="75"/></a> &nbsp;
+  <a href="https://notepad-plus-plus.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/notepad-plus-plus.png?raw=true" title="Notepad++" alt="Notepad++" width="75" height="75"/></a> &nbsp;
   
 </div>
   
