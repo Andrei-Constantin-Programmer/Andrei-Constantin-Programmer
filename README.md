@@ -35,18 +35,18 @@
   
 ## Favourite IDEs, Editors and Engines
 <div id="ides" align="center">
-  <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/microsoft-visual-studio.png?raw=true" title="Visual Studio" alt="Visual Studio" width="75" height="75"/></a> &nbsp;
+  <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-visual-studio.png?raw=true" title="Visual Studio" alt="Visual Studio" width="75" height="75"/></a> &nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="75" height="75"/></a> &nbsp;
   <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ" width="75" height="75"/></a> &nbsp;
   <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="75" height="75"/></a> &nbsp;
-  <a href="https://unity.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/unity.png?raw=true" title="Unity" alt="Unity" width="75" height="75"/></a> &nbsp;
-  <a href="https://notepad-plus-plus.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/notepad-plus-plus.png?raw=true" title="Notepad++" alt="Notepad++" width="75" height="75"/></a> &nbsp;
+  <a href="https://unity.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/unity.png?raw=true" title="Unity" alt="Unity" width="75" height="75"/></a> &nbsp;
+  <a href="https://notepad-plus-plus.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/notepad-plus-plus.png?raw=true" title="Notepad++" alt="Notepad++" width="75" height="75"/></a> &nbsp;
   
 </div>
   
 ## Database Management Systems
 <div id="dbms" align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/microsoft-sql-server.svg?raw=true" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="125" height="125"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-sql-server.svg?raw=true" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="125" height="125"/></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="125" height="125"/></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="125" height="125"/></a>
 </div>
