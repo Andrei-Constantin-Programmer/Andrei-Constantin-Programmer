@@ -42,7 +42,8 @@
   <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/intellij.png?raw=true" title="IntelliJ" alt="IntelliJ" width="75" height="75"/></a> &nbsp;
   <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="75" height="75"/></a> &nbsp;
   <a href="https://unity.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/unity.png?raw=true" title="Unity" alt="Unity" width="75" height="75"/></a> &nbsp;
-  <a href="https://notepad-plus-plus.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/notepad-plus-plus.png?raw=true" title="Notepad++" alt="Notepad++" width="75" height="75"/></a> &nbsp;
+  <a href="https://www.codeblocks.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/codeblocks.png?raw=true" title="Code::Blocks" alt="Code::Blocks" width="75" height="75"/></a> &nbsp;
+  <a href="https://www.bluej.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/bluej.png?raw=true" title="BlueJ" alt="BlueJ" width="75" height="75"/></a> &nbsp;
   
 </div>
   
