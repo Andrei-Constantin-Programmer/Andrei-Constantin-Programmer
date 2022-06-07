@@ -33,6 +33,7 @@
   <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="75" height="75"></a>
   <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="75" height="75"></a>
   <a href="https://codeigniter.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Code Igniter" alt="Code Igniter" width="75" height="75"></a>
+  <a href="https://www.erlang.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/erlang.png?raw=true" title="Erlang" alt="Erlang" width="75" height="75"></a>
   <a href="https://www.office.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-office.png?raw=true" title="Microsoft Office" alt="Microsoft Office" width="75" height="75"></a>
 </div>
   
