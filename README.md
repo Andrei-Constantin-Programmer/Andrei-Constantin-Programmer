@@ -7,8 +7,9 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrei-constantin-developer/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://github.com/Andrei-Constantin-Programmer"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://www.linkedin.com/in/andrei-constantin-developer/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"/></a>
+  <a href="https://github.com/Andrei-Constantin-Programmer"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" title="GitHub"/></a>
+  <a href="https://www.codewars.com/users/Andrei-Constantin-Programmer"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/codewars.png?raw=true" width="50" height="50" alt="Codewars Badge" title="Code Wars"/></a>
 </div>
 
 <br>
