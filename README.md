@@ -2,7 +2,6 @@
 
 * Full Stack Developer Developer from Romania
 * Currently studying Computer Science at the University of Kent. 🎓
-* In my free time, I like hanging out with friends & family 👪, playing video games 🎮, listening to music 🎸 and learning cool history facts ⚔️
 
 <br>
 
