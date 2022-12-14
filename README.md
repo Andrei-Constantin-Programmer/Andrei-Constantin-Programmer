@@ -6,9 +6,9 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrei-constantin-developer/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn" height="60"/></a>
-  <a href="https://github.com/Andrei-Constantin-Programmer"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" title="GitHub" height="60"/></a>
-  <a href="https://www.codewars.com/users/Andrei-Constantin-Programmer"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/codewars.png?raw=true" height="60" alt="Codewars Badge" title="Code Wars"/></a>
+  <a href="https://www.linkedin.com/in/andrei-constantin-developer/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn" height="50"/></a>
+  <a href="https://github.com/Andrei-Constantin-Programmer"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" title="GitHub" height="50"/></a>
+  <a href="https://www.codewars.com/users/Andrei%20Constantin"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/codewars.png?raw=true" height="50" alt="Codewars Badge" title="Code Wars"/></a>
 </div>
 
 <br>
@@ -58,6 +58,7 @@
 </div>
 
 ## Interesting stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Constantin-Programmer&count_private=true&layout=compact&theme=vision-friendly-dark&hide=Objective-C,CMake,GLSL&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Constantin-Programmer&count_private=true&layout=compact&theme=transparent&hide=Objective-C,CMake,GLSL&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Andrei-Constantin-Programmer&theme=transparent&count_private=true&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br>
 <a href="https://www.codewars.com/users/Andrei%20Constantin"><img src="https://www.codewars.com/users/Andrei%20Constantin/badges/large"/></a>
