@@ -14,7 +14,7 @@
 
 <br>
 
-## Programming languages and other tools
+## Programming languages, frameworks, and other tools
 
 <div id="tools" align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/></a>
@@ -25,15 +25,13 @@
   <a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-6.0"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/blazor.png?raw=true" title="Blazor" alt="Blazor" width="50" height="50"/></a> 
   <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>
   <a href="https://www.android.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="50" height="50"/></a>
+  <a href="https://reactjs.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/react.png?raw=true" title="React" alt="React" width="55" height="50"/></a> 
+  <a href="https://www.typescriptlang.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/typescript.png?raw=true" title="Typescript" alt="Typescript" width="50" height="50"/></a> 
+  <a href="https://www.w3schools.com/js/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/></a>
+    <a href="https://www.rust-lang.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/rust.png?raw=true" title="Rust" alt="Rust" width="50" height="50"/></a> 
+  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"></a>
   <a href="https://www.python.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/python.png?raw=true" title="Python" alt="Python" width="50" height="50"/></a> 
   <a href="https://www.haskell.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/js/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"></a>
-  <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="50" height="50"></a>
-  <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"></a>
-  <a href="https://codeigniter.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Code Igniter" alt="Code Igniter" width="50" height="50"></a>
   <a href="https://www.erlang.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/erlang.png?raw=true" title="Erlang" alt="Erlang" width="50" height="50"></a>
   <a href="https://www.office.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-office.png?raw=true" title="Microsoft Office" alt="Microsoft Office" width="50" height="50"></a>
 </div>
@@ -43,6 +41,7 @@
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-visual-studio.png?raw=true" title="Visual Studio" alt="Visual Studio" width="50" height="50"/></a> &nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/></a> &nbsp;
   <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/intellij.png?raw=true" title="IntelliJ" alt="IntelliJ" width="50" height="50"/></a> &nbsp;
+  <a href="https://www.jetbrains.com/rider/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/rider.png?raw=true" title="Rider" alt="Rider" width="50" height="50"/></a> &nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/pycharm.png?raw=true" title="PyCharm" alt="PyCharm" width="50" height="50"/></a> &nbsp;
   <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/></a> &nbsp;
   <a href="https://unity.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/unity.png?raw=true" title="Unity" alt="Unity" width="50" height="50"/></a> &nbsp;
