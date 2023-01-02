@@ -20,8 +20,8 @@
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/></a>
+  <a href="https://fsharp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="F#" alt="F#" width="50" height="50"/></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotNET" alt="dotNET" width="50" height="50"/></a> 
-  <a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/dotnet.png?raw=true" title="dotNET Core" alt="dotNET Core" width="50" height="50"/></a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-6.0"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/blazor.png?raw=true" title="Blazor" alt="Blazor" width="50" height="50"/></a> 
   <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>
   <a href="https://www.android.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="50" height="50"/></a>
