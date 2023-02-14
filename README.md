@@ -34,6 +34,7 @@
   <a href="https://www.haskell.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="50" height="50"/></a>
   <a href="https://www.erlang.org/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/erlang.png?raw=true" title="Erlang" alt="Erlang" width="50" height="50"></a>
   <a href="https://www.office.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-office.png?raw=true" title="Microsoft Office" alt="Microsoft Office" width="50" height="50"></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/git.png?raw=true" title="Git" alt="Git" width="50" height="50"></a>
 </div>
   
 ## Favourite IDEs, Editors and Engines
@@ -55,6 +56,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/microsoft-sql-server.svg?raw=true" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="75" height="75"/></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="75" height="75"/></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="75" height="75"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://github.com/Andrei-Constantin-Programmer/Andrei-Constantin-Programmer/blob/main/images/mongodb.png?raw=true" title="MongoDB" alt="MongoDB" width="75" height="75"/></a>
 </div>
 
 ## Interesting stats
