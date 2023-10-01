@@ -1,8 +1,8 @@
 # About me
 
-* Full Stack Developer from Romania 
+* Full Stack Developer from Romania, settled in the UK 
 * Currently studying Computer Science at the University of Kent 🎓
-* Working at Mountain Warehouse as a Software Developer for my placement year 💻
+* Worked at Mountain Warehouse as a Software Developer for my placement year 💻
 
 <br>
 
