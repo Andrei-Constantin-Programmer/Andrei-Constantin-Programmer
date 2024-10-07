@@ -1,7 +1,8 @@
 # About me
 
-* Full Stack Developer from Romania, settled in the UK 
-* Currently studying Computer Science at the University of Kent 🎓
+* Software Engineer from Romania, settled in the UK
+* Currently on the MSc Software Systems Engineering course at University College London 📖
+* First-class Honours in BSc Computer Science at the University of Kent 🎓
 * Worked at Mountain Warehouse as a Software Developer for my placement year 💻
 
 <br>
