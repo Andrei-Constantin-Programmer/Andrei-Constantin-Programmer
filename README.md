@@ -1,4 +1,5 @@
 # About me
+[![andreiconstantin.dev](https://img.shields.io/badge/andreiconstantin.dev-online-brightgreen?style=flat&logo=github)](https://andreiconstantin.dev)
 
 * Software Engineer from Romania, settled in the UK
 * Currently on the MSc Software Systems Engineering course at University College London 📖
